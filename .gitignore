@@ -1,0 +1,26 @@
+# OS/editor files
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.secret
+*.key
+
+# Runtime/build output
+node_modules/
+dist/
+build/
+target/
+coverage/
+.pytest_cache/
+__pycache__/
+*.log
+
+# Local Kubernetes state
+.kube/
