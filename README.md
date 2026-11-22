@@ -40,6 +40,7 @@ These are planned companion or integration targets, not current dependencies:
 
 - [`incoming-specs-aka_specifications_for_agentic_coding`](https://github.com/webdawg/incoming-specs-aka_specifications_for_agentic_coding) — incoming specifications for agentic coding work.
 - `oag-space_telemetry` — planned repository for space-telemetry data about satellite constellations. The repository has not been created or located yet.
+- `oag-challenges` — foundational delivery tests that exercise the entire OAG stack end to end. These tests are intended to force the stack to work as a real integrated system, rather than validating isolated components only. The repository has not been created or located yet.
 
 ## License
 
