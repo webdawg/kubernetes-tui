@@ -36,4 +36,4 @@ Early design and implementation phase. APIs, workload isolation, persistence, au
 
 ## License
 
-Licensed under the [GNU Affero General Public License v3.0](LICENSE).
+Licensed under the [GNU Affero General Public License v3.0 or later](LICENSE) (`AGPL-3.0-or-later`).
